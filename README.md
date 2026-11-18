@@ -1,4 +1,4 @@
-# Task 06 â€” Real-Time ML Inference REST API & Capstone
+# Task 06  Real-Time ML Inference REST API & Capstone
 
 **Project:** Movie Review Sentiment Prediction API  
 **Model:** The TensorFlow/Keras IMDB sentiment classifier built in Task 05.
